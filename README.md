@@ -32,13 +32,13 @@ Acesse **Aparência > Temas** e instale o tema Storefront a partir do repositór
 - Coloque o tema filho dentro da pasta **wp-content/themes**
 - Ative o tema filho em **Aparência > Temas**
 
-### 4. Configure a página inicial do site como "Loja" ou "Shop"se estiver em inglês
+### 5. Configure a página inicial do site como "Loja" ou "Shop"se estiver em inglês
 
-### 5. 🛒 Cadastro de Produtos
+### 6. 🛒 Cadastro de Produtos
 - Vá para o menu **Produtos>Adicionar novo**
 - Preencha os dados de especificação do produto e publique
 
-### 6. 🔌 Instalação do Plugin AASP Custom Products
+### 7. 🔌 Instalação do Plugin AASP Custom Products
 - Instale o plugin a partir do arquivo **aasp-custom-products.zip** pelo painel administrativo em **Plugins>Adicionar Plugin**
 - Acesse o terminal e entre na pasta do plugin
 

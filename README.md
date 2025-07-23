@@ -60,12 +60,11 @@ WooCommerce: Ativado para gerenciamento da loja
 
 ##### 📁 Organização
 
-bash
-Copiar
-Editar
+```
 wp-content/
 ├── themes/
 │   ├── storefront/           # Tema pai
 │   └── storefront-child/     # Tema filho personalizado
 ├── plugins/
 │   └── aasp-custom-products/ # Plugin customizado com WP Emerge
+```
